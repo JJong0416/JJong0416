@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Jongchan Park!
+Good day!
+I am a Backend developer from South Korea.
+[![JJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJong0416)](https://github.com/JJong0416/github-readme-stats)
