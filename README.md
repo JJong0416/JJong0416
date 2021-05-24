@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm 
-## **Jongchan Park**!
+Hello, I'm **Jongchan Park**!
 
 
 Good day!
@@ -30,9 +29,9 @@ If you want to contact me, please leave me a message!
 Link :
 
 
-[![Github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/JJong0416)](https://github.com/JJong0416)
+#### [![Github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/JJong0416)](https://github.com/JJong0416)
 
-[![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjong.dev@gmail.com)](mailto:jjong.dev@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link=mailto:jjong.dev@gmail.com)](mailto:jjong.dev@gmail.com)
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjong.dev@gmail.com)](mailto:jjong.dev@gmail.com)
