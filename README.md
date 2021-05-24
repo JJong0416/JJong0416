@@ -18,4 +18,5 @@ Hello, I'm Jongchan Park!
 Good day!
 I am a Backend developer from South Korea.
 [![JJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJong0416)](https://github.com/JJong0416/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJong0416&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jjong0416})](https://solved.ac/{jjong0416})
