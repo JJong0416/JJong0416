@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hello, I'm **Jongchan Park**!
 
 
-Good day!
+Good day!!
 
 
 I am a Backend developer from South Korea.🇰🇷. I am interested in computer science and backend technology. 
