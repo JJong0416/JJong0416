@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Github](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/JJong0416)](https://github.com/JJong0416)
-[![Notion Badge](https://img.shields.io/badge/Notion-blueviolet?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/jjongdev/Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7)](https://www.notion.so/jjongdev/Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7)
+[![Notion Badge](https://img.shields.io/badge/Notion-blueviolet?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/jjongdev/Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7)](https://bit.ly/3CsCFxd)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjong.dev@gmail.com)](mailto:jjong.dev@gmail.com)
 
 <!--글자%20글자 여기서 %20이 띄어쓰기 -->
